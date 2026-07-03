@@ -27,8 +27,7 @@ A responsive Password Generator built using HTML, CSS, and JavaScript. Users can
 <img width="1470" height="806" alt="screenshot" src="https://github.com/user-attachments/assets/bbac6b2c-b10a-4df9-b2f2-27b1e723140a" />
 
 ## Flow-chart
-<img width="1408" height="768" alt="flowchart" src="https://github.com/user-attachments/assets/71d639e6-a803-4d31-ba73-82fef8ee075e" />
-
+<img width="1024" height="1536" alt="flowchart" src="https://github.com/user-attachments/assets/8d55adcc-84e9-425a-ba47-5619306fc728" />
 
 ## Devs
 
