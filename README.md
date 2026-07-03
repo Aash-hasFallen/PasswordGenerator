@@ -32,4 +32,4 @@ A responsive Password Generator built using HTML, CSS, and JavaScript. Users can
 ## Devs
 
 **👾Aashray Biswal** <br>
-**💻Ishyau Sakure**
+**💻Ishayu Sakure**
