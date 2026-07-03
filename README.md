@@ -1,2 +1,32 @@
-# PasswordGenerator
-🔐 A responsive Password Generator built with HTML, CSS, and JavaScript. Generate secure random passwords by selecting length and character types (lowercase, uppercase, numbers, and symbols). Features a clean glassmorphism-inspired UI with an optional cinematic background video.
+# 🔐 Password Generator
+
+A responsive Password Generator built using HTML, CSS, and JavaScript. Users can generate secure passwords by choosing the password length and character types (lowercase, uppercase, numbers, and symbols).
+
+## Features
+
+- Adjustable password length
+- Lowercase, uppercase, numbers, and symbols
+- Responsive UI
+- Glassmorphism-inspired design
+- Optional background video
+- Built with Vanilla JavaScript
+
+## Technologies Used
+
+- HTML5
+- CSS
+- JavaScript 
+
+## How to Run
+
+1. Clone or download this repository.
+2. Open `passwordGenerator.html` in your browser or use Live Server.
+3. Select your password options and click **Generate Password**.
+
+## Preview
+<img width="1470" height="806" alt="screenshot" src="https://github.com/user-attachments/assets/bbac6b2c-b10a-4df9-b2f2-27b1e723140a" />
+
+## Devs
+
+**👾Aashray Biswal** <br>
+**💻Ishyau Sakure**
